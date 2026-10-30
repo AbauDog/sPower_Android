@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sPower</string>
+    <string name="device_admin_label">sPower 螢幕控制</string>
+    <string name="device_admin_description">啟用後 sPower 才能呼叫「鎖定螢幕」來真正關閉螢幕顯示，僅使用鎖定螢幕這項功能，不會變更密碼規則或清除資料。</string>
+</resources>

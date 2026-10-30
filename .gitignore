@@ -1,0 +1,21 @@
+# Android
+build/
+*.pyc
+.gradle/
+local.properties
+keystore.properties
+*.keystore
+*.jks
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+.idea/
+*.iml
+.DS_Store
